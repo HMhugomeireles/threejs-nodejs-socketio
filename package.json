@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server --mode=development",
     "build": "webpack --mode=production",
-    "start": "serve --no-clipboard --single --listen 8080 dist",
+    "start": "serve --no-clipboard --single --listen 8080 dist"
   },
   "keywords": [],
   "author": "",
